@@ -1,8 +1,0 @@
-spring:
-  main:
-    web-application-type: reactive
-  application:
-    name: ComicApi
-admin:
-  username: lamph11.it@gmail.com
-  password: 123
